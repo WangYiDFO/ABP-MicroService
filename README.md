@@ -12,7 +12,7 @@
 
 **博客地址：** [博客园](https://www.cnblogs.com/william-xu/)
 
-**视频地址：** [哔哩哔哩](https://space.bilibili.com/702776220/channel/seriesdetail?sid=604812) | **[YouTube](https://www.youtube.com/@opencodes)**
+**视频地址：** [哔哩哔哩](https://space.bilibili.com/702776220/channel/seriesdetail?sid=604812) 
 
 **快速启动：**
 运行run目录下脚本
